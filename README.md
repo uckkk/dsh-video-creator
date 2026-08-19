@@ -67,3 +67,9 @@ dsh plugin add github:uckkk/dsh-video-creator
 ```
 
 > 安装即在本机运行第三方代码，请自行审阅源码。
+
+## 安装
+
+```bash
+dsh plugin add github:uckkk/dsh-video-creator
+```
